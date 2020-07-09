@@ -1,6 +1,6 @@
 FROM store/oracle/jdk:11
 
-MAINTAINER udp@narola.email
+MAINTAINER pateluday07@gmail.com
 
 VOLUME /tmp
 

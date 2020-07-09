@@ -2,7 +2,7 @@ version: "3"
 
 services:
   student-demo:
-    image: udpp/spring-boot-cassandra-demo
+    image:
     restart: always
     container_name: spring-boot-demo
     ports:
@@ -13,7 +13,7 @@ services:
       - cassandradb
 
   cassandradb:
-    image: udpp/my-cassandra
+    image:
     container_name: cassandra-demo
     ports:
     - "9042:9042"
