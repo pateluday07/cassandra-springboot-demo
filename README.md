@@ -22,10 +22,10 @@ This project is to demonstrate how we can use **Cassandra** with **Spring Boot**
 
 2. Go to the `/cassandra-springboot-demo/src/main/resources/application.properties` and update Cassandra properties as per your cluster set up.
 
-1. Go to the `/cassandra-springboot-demo/` directory and 
+3. Go to the `/cassandra-springboot-demo/` directory and 
 open terminal
 
-2. Execute the following command in the terminal
+4. Execute the following command in the terminal
 
        gradlew bootrun
    
