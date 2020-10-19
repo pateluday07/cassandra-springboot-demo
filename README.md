@@ -32,7 +32,7 @@ open terminal
    or go to the `/cassandra-springboot-demo/src/main/java/com/demo/` directory and run the **SpringBootCassandraDemoApplication** class.
        
 And now we can access the **Swagger** on this link: 
-[Swagger] (http://localhost:8081/swagger-ui.html)
+[Swagger](http://localhost:8081/swagger-ui.html)
 
 <p align="center">
   <b>Thank You</b>
